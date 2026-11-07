@@ -47,4 +47,4 @@ V = 6
 S = 0
 D = 3
 distance = dijkstra( V, adj, S, D);
-print(distance[D])
+print(distance[D]);;;
